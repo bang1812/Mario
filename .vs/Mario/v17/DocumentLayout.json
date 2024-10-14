@@ -1,0 +1,556 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Mario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\ui\\btnsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\btnsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\other\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\other\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\other\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\other\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|c:\\projects\\mario\\assets\\script\\other\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\other\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\player\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\enemy\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\enemy\\spawnenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\spawnenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\item\\itemmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\itemmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\player\\inputplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\inputplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\enemy\\enemysnail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemysnail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\environment\\boxes\\boxreward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\environment\\boxes\\boxreward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\player\\groundcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\groundcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\enemy\\enemydie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemydie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\player\\playerhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playerhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\item\\destroyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\destroyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\item\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\player\\spriteplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\spriteplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\environment\\traps\\shalf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\environment\\traps\\shalf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\other\\nextlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\other\\nextlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\other\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\other\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\environment\\boxes\\iboxrespond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\environment\\boxes\\iboxrespond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\other\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\other\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\other\\followcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\other\\followcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\other\\flag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\other\\flag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\enemy\\enemyflower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemyflower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\enemy\\enemyflipface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemyflipface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\enemy\\enemy_bluebird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemy_bluebird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\enemy\\enemy_bee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemy_bee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\environment\\boxes\\boxraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\environment\\boxes\\boxraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\other\\bonuspoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\other\\bonuspoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\enemy\\beebullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\beebullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|C:\\Projects\\Mario\\assets\\script\\player\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Other\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Other\\UIManager.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Other\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Other\\UIManager.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADwv14AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:56:08.977Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Other\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Other\\LevelManager.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Other\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Other\\LevelManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:00:00.269Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Player.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Player.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:29:45.114Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BtnSound.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\UI\\BtnSound.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\BtnSound.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\UI\\BtnSound.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\BtnSound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:44:05.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Other\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Other\\AudioManager.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Other\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Other\\AudioManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:21:28.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Player\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Bullet.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Player\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Bullet.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T15:27:32.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Enemy\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemyMovement.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Enemy\\EnemyMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\EnemyMovement.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:33:59.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpawnEnemy.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Enemy\\SpawnEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\SpawnEnemy.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Enemy\\SpawnEnemy.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\SpawnEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:29:59.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InputPlayer.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Player\\InputPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\InputPlayer.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Player\\InputPlayer.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\InputPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T15:54:00.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemMovement.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Item\\ItemMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\ItemMovement.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Item\\ItemMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\ItemMovement.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:55:21.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemySnail.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Enemy\\EnemySnail.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemySnail.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Enemy\\EnemySnail.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\EnemySnail.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAiwFoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T00:57:36.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BoxReward.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Environment\\Boxes\\BoxReward.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Environment\\Boxes\\BoxReward.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Environment\\Boxes\\BoxReward.cs",
+              "RelativeToolTip": "Assets\\Script\\Environment\\Boxes\\BoxReward.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:12:46.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Other\\Level.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Other\\Level.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Other\\Level.cs",
+              "RelativeToolTip": "Assets\\Script\\Other\\Level.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:00:48.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NextLevel.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Other\\NextLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Other\\NextLevel.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Other\\NextLevel.cs",
+              "RelativeToolTip": "Assets\\Script\\Other\\NextLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:09:01.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerHandle.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Player\\PlayerHandle.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerHandle.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Player\\PlayerHandle.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\PlayerHandle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:06:01.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Shalf.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Environment\\Traps\\Shalf.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Environment\\Traps\\Shalf.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Environment\\Traps\\Shalf.cs",
+              "RelativeToolTip": "Assets\\Script\\Environment\\Traps\\Shalf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:24:13.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GroundCheck.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Player\\GroundCheck.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\GroundCheck.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Player\\GroundCheck.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\GroundCheck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T23:04:59.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnemyDie.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Enemy\\EnemyDie.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemyDie.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Enemy\\EnemyDie.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\EnemyDie.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwE8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:40:28.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Item\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\Coin.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Item\\Coin.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\Coin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:53:49.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DestroyItem.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Item\\DestroyItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\DestroyItem.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Item\\DestroyItem.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\DestroyItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:54:21.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SpritePlayer.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Player\\SpritePlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\SpritePlayer.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Player\\SpritePlayer.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\SpritePlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:10:24.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IBoxRespond.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Environment\\Boxes\\IBoxRespond.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Environment\\Boxes\\IBoxRespond.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Environment\\Boxes\\IBoxRespond.cs",
+              "RelativeToolTip": "Assets\\Script\\Environment\\Boxes\\IBoxRespond.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:25:09.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Other\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Other\\GameManager.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Other\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Other\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:52:29.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FollowCamera.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Other\\FollowCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Other\\FollowCamera.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Other\\FollowCamera.cs",
+              "RelativeToolTip": "Assets\\Script\\Other\\FollowCamera.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:15:42.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Flag.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Other\\Flag.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Other\\Flag.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Other\\Flag.cs",
+              "RelativeToolTip": "Assets\\Script\\Other\\Flag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:55:57.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EnemyFlower.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Enemy\\EnemyFlower.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemyFlower.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Enemy\\EnemyFlower.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\EnemyFlower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:51:09.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EnemyFlipFace.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Enemy\\EnemyFlipFace.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemyFlipFace.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Enemy\\EnemyFlipFace.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\EnemyFlipFace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:43:11.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Enemy_BlueBird.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Enemy\\Enemy_BlueBird.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\Enemy_BlueBird.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Enemy\\Enemy_BlueBird.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\Enemy_BlueBird.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAYwFgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:46:35.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Enemy_Bee.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Enemy\\Enemy_Bee.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\Enemy_Bee.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Enemy\\Enemy_Bee.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\Enemy_Bee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwCcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T02:03:17.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BoxRaw.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Environment\\Boxes\\BoxRaw.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Environment\\Boxes\\BoxRaw.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Environment\\Boxes\\BoxRaw.cs",
+              "RelativeToolTip": "Assets\\Script\\Environment\\Boxes\\BoxRaw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:20:20.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BonusPoint.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Other\\BonusPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Other\\BonusPoint.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Other\\BonusPoint.cs",
+              "RelativeToolTip": "Assets\\Script\\Other\\BonusPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:27:07.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BeeBullet.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Enemy\\BeeBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\BeeBullet.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Enemy\\BeeBullet.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\BeeBullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:59:05.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Animation.cs",
+              "DocumentMoniker": "C:\\Projects\\Mario\\Assets\\Script\\Player\\Animation.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Animation.cs",
+              "ToolTip": "C:\\Projects\\Mario\\Assets\\Script\\Player\\Animation.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Animation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:26:46.867Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
